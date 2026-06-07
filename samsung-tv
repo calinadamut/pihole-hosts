@@ -1,1 +1,62 @@
+# Google telemetry / analytics
+#----------------------------------------------------------
+clients1.google.com
+c.pki.goog
+o.pki.goog
 
+# Samsung telemetry
+#----------------------------------------------------------
+api.samsungconsent.com
+sas.samsungcloudsolution.com
+cpu.samsungelectronics.com
+apu.samsungelectronics.com
+kpu.samsungelectronics.com
+ypu.samsungelectronics.com
+zpu.samsungelectronics.com
+gpm.samsungqbe.com
+osb.samsungqbe.com
+osb-v1.samsungqbe.com
+osb-v1-alb.samsungqbe.com
+osb-apps.samsungqbe.com
+osb-tnc-v2-appsacc.samsungqbe.com
+
+# Netflix telemetry
+#----------------------------------------------------------
+nrdp.logs.netflix.com
+logs.netflix.com
+nrdp.push.prod.netflix.com
+probe-dradis.prod.ftl.netflix.com
+probe-aws-dradis.prod.ftl.netflix.com
+probe-future-dradis.prod.ftl.netflix.com
+probe-future-aws-dradis.prod.ftl.netflix.com
+
+# Plex telemetry
+#----------------------------------------------------------
+analytics.plex.tv
+
+# Google ads / tracking
+#----------------------------------------------------------
+googleads.g.doubleclick.net
+static.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+
+# Attribution / tracking SDKs
+#----------------------------------------------------------
+tvx.adgrx.com
+sdk.claspws.tv
+ip.claspws.tv
+
+# TV / HbbTV ad systems
+#----------------------------------------------------------
+tvp-ads-log.samsungads.com
+config.samsungads.com
+
+# Suspicious / unwanted domains
+#----------------------------------------------------------
+#infinitestyle.net
+lb5dedicate.org
+myimgs.org
+103.75.69.72
+103.75.69.84
+103.75.68.3
