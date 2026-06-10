@@ -18,3 +18,12 @@
 track.shipstation.com
 ib.huluim.com
 ^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$
+
+(^|\.)facebook|instagram|whatsapp|fbcdn|fbsbx|meta\.com$
+(^|\.)instaread\.co$
+(^|\.)tiktok.*$|(^|\.)byte.*$|(^|\.)muscdn.*$
+(^|\.)gsi\.google\.com$|(^|\.)smartlock\.google\.com$|(^|\.)oauthaccount\.google\.com$|(^|\.)signin\.google\.com$
+
+example.org
+consent.newsnow.com
+bs_ec3ddda6.cryptotyc.care
